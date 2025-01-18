@@ -6,7 +6,6 @@ Welcome to the Bike Sales Analysis project! This project leverages **Excel** for
 ---
 
 ## **Dashboards**
-### **Home**
 <img width="1307" alt="Screenshot 2025-01-17 at 19 24 44" src="https://github.com/user-attachments/assets/a17d7680-d84c-40fc-8637-6d65c527a73c" />
 
 ---
