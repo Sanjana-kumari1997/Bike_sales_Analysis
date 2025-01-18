@@ -22,28 +22,27 @@ Welcome to the Bike Sales Analysis project! This project leverages **Excel** for
 ---
 
 ## **Features**
-- Explore average income by bike purchase decision.
-- Analyze bike purchases by **age bracket**.
-- Understand bike purchase trends based on **commute distance**.
-- Use interactive filters for marital status, education, region, and number of cars owned.
+- Average Income Analysis: Explore the difference in average income for bike buyers vs. non-buyers.
+- Age Bracket Analysis: Analyze bike purchase trends by different age groups.
+- Commute Distance Analysis: Understand how commute distance impacts bike purchase decisions.
+- Interactive slicers for marital status, education, region, and number of cars owned.
 
 ---
 
 ## **Getting Started**
 ### **Creating Dashboards**
-- Dashboards were created in Excel to visualize insights dynamically.
-- Interactive slicers and charts allow users to filter data by demographics and commute distance.
+- The dashboard was created in Excel using pivot tables for summarizing data and charts for visualization.
+- Interactive slicers were added to filter data by demographics, such as region, marital status, and education.
 
 ---
 
 ## **Dashboard Overview**
 ### **Key Insights**
-1. **Average Income Analysis**:
-   - Visualize the difference in average income for bike buyers vs. non-buyers.
-2. **Age Bracket Trends**:
-   - Identify the most active age group for bike purchases (e.g., Middle Age: 31-54).
-3. **Commute Distance Analysis**:
-   - Understand how commute distance impacts bike purchase decisions.
+1. Individuals with higher income levels are more likely to purchase bikes.
+2. Middle-aged individuals (31-54 years) dominate bike purchases.
+3. Shorter commute distances (0-5 miles) strongly influence bike purchases.
+4. Married individuals and those with higher education levels tend to buy more bikes.
+5. North America leads in bike sales, with individuals owning fewer cars showing greater interest in bikes.
 
 ---
 
